@@ -38,7 +38,7 @@
 <div id="jwplayerDiv"></div>
 <script>  
 jwplayer("jwplayerDiv").setup({
-        file:"https://linear114-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_sd/Live/channel(gcptntsport1)/manifest_sd.mpd?c3.ri=13504144548675562788",
+        file:"https://linear114-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_sd/Live/channel(gcptntsport1)/manifest_sd.mpd",
       type: "dash",
       drm: { "clearkey": {
               "keyId": "00079dbbb526c7cb40aec345e2b007d5",
